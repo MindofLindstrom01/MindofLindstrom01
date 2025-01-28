@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Active Directory
-  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/MindofLindstrom01/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com)
 - <b>osTicket (Help Desk Ticketing System)</b>
