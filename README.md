@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- Active Directory
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MindofLindstrom01/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MindofLindstrom01/post-install-config)
