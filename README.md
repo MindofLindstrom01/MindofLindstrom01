@@ -5,7 +5,7 @@
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/MindofLindstrom01/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/MindofLindstrom01/deploying-active-directory-in-azure)
-  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/MindofLindstrom01/active-directory-creating-users-group-policy-and-managing-accounts)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MindofLindstrom01/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MindofLindstrom01/post-install-config)
