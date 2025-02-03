@@ -11,8 +11,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MindofLindstrom01/post-install-config)
   - [osTicket: Creating and Working Tickets](https://github.com/MindofLindstrom01/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Monitoring Network Traffic with Azure VMs](https://github.com/MindofLindstrom01/configure-ad)
-  - [Setup and Use a VPN in Azure](https://github.com/MindofLindstrom01/azure-network-protocols)
+  - [Monitoring Network Traffic with Azure VMs](https://github.com/MindofLindstrom01/azure-monitor-networking)
+  - [Setup and Use a VPN in Azure](https://github.com/MindofLindstrom01/setup-and-use-vpn-with-azure)
 
 <h2>🤳Connect with me:</h2>
 
