@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gregory, an <a href="https://linkedin.com/in/Austin">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gregory, an <a href="https://linkedin.com/in/Austin">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,8 +16,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Austin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Austin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Austin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 
-[instagram]: https://www.instagram.com/Austin
-[linkedin]: https://linkedin.com/in/Austin
+[linkedin]: www.linkedin.com/in/gregory-lindstrom
